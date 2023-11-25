@@ -25,5 +25,5 @@ This project is a clone of Font Awesome Sites, aiming to provide a similar exper
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/font-awesome-clone.git
+   git clone https://github.com/DilushaHesaranga/fontawesome-clone.git
    cd fontawesome-clone
